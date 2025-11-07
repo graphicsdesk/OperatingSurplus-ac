@@ -7,12 +7,240 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "Columbia ended fiscal year 2025 with just a $112.6 million operating surplus—a 63.1 percent decrease from fiscal year 2024—primarily due to increased research and administrative expenses, the University announced last week."
+          },
+          {
+            "type": "text",
+            "value": "“Expenses reflect personnel and non-personnel costs to effectively run our campus, and in 2025, substantially higher expenses for external support as the University sought additional expertise to coordinate responses to new levels of government inquiry,” Anne Sullivan, executive vice president of finance, wrote in an Oct. 23 <a href=\"https://www.finance.columbia.edu/news/financial-statements-released-fiscal-2025\">statement</a>."
+          },
+          {
+            "type": "text",
+            "value": "Rising costs in instruction, research, and patient care coupled with a decline in private gifts shrunk Columbia’s surplus."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "columbia_budget.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "The operating surplus represents funds remaining after Columbia pays its annual expenses. Under the University’s decentralized financial model, most of the surplus stays within schools or departments for specific uses, while a portion is held centrally to fund major capital projects."
+          },
+          {
+            "type": "text",
+            "value": "President Donald Trump’s administration has <a href=\"https://www.nytimes.com/interactive/2025/06/04/health/trump-cuts-nih-grants-research.html\">dramatically reduced</a> federal spending on scientific research and increased <a href=\"https://www.whitehouse.gov/presidential-actions/2025/01/ending-radical-and-wasteful-government-dei-programs-and-preferencing/\">scrutiny</a> of existing contracts this year."
+          },
+          {
+            "type": "text",
+            "value": "The Trump administration <a href=\"https://www.columbiaspectator.com/news/2025/03/07/trump-administration-cuts-400-million-in-federal-funding-to-columbia/\">canceled</a> $400 million in government grants and contracts to Columbia in March over allegations that the University had failed to protect its Jewish students. The University <a href=\"https://www.columbiaspectator.com/news/2025/07/23/columbia-will-pay-220-million-in-deal-with-trump-administration-to-resume-federal-funding/\">settled</a> these claims with the federal government for $221 million in July to restore much of its research funding. Acting University President Claire Shipman, CC ’86, SIPA ’94, confirmed last month that <a href=\"https://www.columbiaspectator.com/news/2025/10/07/shipman-to-discuss-caps-on-research-indirect-costs-on-capitol-hill-amid-restoration-of-almost-99-percent-of-canceled-federal-grants/\">“almost 99 percent”</a> of canceled grants had been restored since July."
+          },
+          {
+            "type": "text",
+            "value": "Institutional support, a category of expenses which includes “central administrative functions and expenses that support the management of the University,” rose to $459 million from $386 million in fiscal year 2024."
+          },
+          {
+            "type": "text",
+            "value": "Though Columbia’s finances have hit unique turbulence throughout the past several months, colleges and universities across the country are also facing headwinds."
+          },
+          {
+            "type": "text",
+            "value": "“There’s a lot of dynamic challenges to all institutions’ financial models,” Chuck Ambrose, senior education consultant for Husch Blackwell, a national law firm with more than 250 higher education clients, told Spectator. “There’s no one that’s left unaffected, even schools with large endowments and significant resources.”"
+          },
+          {
+            "type": "text",
+            "value": "“It’s extraordinary results on an operating statement if you’re able to produce surplus today for any institution,” Ambrose said."
+          },
+          {
+            "type": "text",
+            "value": "<b>Research largely stable, for now</b>"
+          },
+          {
+            "type": "text",
+            "value": "Columbia received $1.3 billion in federal grants and contracts in fiscal year 2025, falling by about $15 million from fiscal year 2024. These grants made up about 19 percent of its total operating revenue."
+          },
+          {
+            "type": "text",
+            "value": "Almost all of Columbia’s grant revenue comes from competitive research grants awarded by the federal government for specific scientific research purposes, largely in the health sciences."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "research_budget.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "In fiscal year 2024, Columbia received $832 million from the National Institutes of Health and an additional $178 million from the Department of Health and Human Services. Combined, these two agencies accounted for just under 77 percent of Columbia’s federal grant revenue. The remaining 23 percent came from agencies including the National Science Foundation, the Department of Defense, the Department of Energy, NASA, and more."
+          },
+          {
+            "type": "text",
+            "value": "Of the $400 million in federal grants canceled in March, about $250 million <a href=\"https://www.columbiaspectator.com/news/2025/03/11/nih-cancels-250-million-in-grants-to-columbia-as-part-of-400-million-trump-administration-cut/\">came</a> from the NIH. The NIH later <a href=\"https://www.columbiaspectator.com/news/2025/04/20/nih-staff-told-to-freeze-all-grants-to-columbia-peers/\">froze</a> all of its research funding to Columbia in April."
+          },
+          {
+            "type": "text",
+            "value": "In Columbia’s deal with the Trump administration, the federal government agreed to restore terminated grants from HHS and the NIH, and to “enable the drawdown of overdue payments” on nonterminated grants. These overdue payments are not reflected in the financial statements."
+          },
+          {
+            "type": "text",
+            "value": "Columbia’s agreement with the federal government did not apply to the grants terminated in March coming from agencies other than HHS and the NIH, including the Department of Education. The Department of Education awarded less than $900,000 to Columbia in fiscal year 2024."
+          },
+          {
+            "type": "text",
+            "value": "The NIH is congressionally <a href=\"https://nigms.nih.gov/loop/2012/05/explaining-the-4-year-duration-of-most-research-project-grants\">mandated</a> to keep its average research project length to four years. This means that the majority of Columbia’s NIH grant revenue comes from continuing contracts from previous years, with about a quarter being from contracts won by Columbia researchers during the current fiscal year."
+          },
+          {
+            "type": "text",
+            "value": "Columbia reported in its financial filing that it had $3 billion in open commitments from “grants or contracts for which it has not yet met all obligations to recognize revenue” in fiscal year 2025 and that it expects these commitments to be recognized over the next several years. This represents a significant drop from fiscal year 2024, when open commitments totaled $3.5 billion."
+          },
+          {
+            "type": "text",
+            "value": "These “open commitments” are largely associated with multiyear research contracts, including those of the NIH. The drop suggests a significant decline in new contracts being won by Columbia researchers during fiscal year 2025."
+          },
+          {
+            "type": "text",
+            "value": "Fiscal year 2025 closed June 30, before the University reached its settlement with the federal government. Columbia’s deal with the Trump administration requires that the federal government “treat Columbia as eligible for further grants, contracts, and awards in the ordinary course, without disfavored treatment.”"
+          },
+          {
+            "type": "text",
+            "value": "The University reported that it had spent $988 million on research expenses in fiscal year 2025, rising by about $37 million from fiscal year 2024 and comprising about 15 percent of its total operating expenses. These expenses do not include certain indirect costs, such as facilities and administrative expenses accrued by the University to support research."
+          },
+          {
+            "type": "text",
+            "value": "These research-related indirect costs are categorized in the financial statements under operation and maintenance, depreciation, and interest. Columbia reported that its allocation for research-related expenses from these categories amounted to $137 million in fiscal year 2025, increasing slightly from $129 million in fiscal year 2024 and leading to a total expense of $1.1 billion in support of research."
+          },
+          {
+            "type": "text",
+            "value": "Though research-specific allocations to operations and maintenance, depreciation, and interest only rose slightly, expenses related to these categories as a whole increased significantly in fiscal year 2025. Operations and maintenance, depreciation, and interest expenses amounted to $805 million in fiscal year 2025, increasing from $761 million in fiscal year 2024."
+          },
+          {
+            "type": "text",
+            "value": "The NIH announced it would <a href=\"https://www.columbiaspectator.com/news/2025/02/18/columbias-medical-school-pauses-spending-and-hiring-amid-nih-cuts/\">cap</a> research indirect cost reimbursements at 15 percent of direct costs on Feb. 7 for all grants, to all institutions, accepted after Feb. 10."
+          },
+          {
+            "type": "text",
+            "value": "Indirect cost recovery refers to a wide range of expenses universities incur to maintain the facilities and administrative functions necessary to conduct research. Many of these costs are dedicated to ensuring compliance with regulations the federal government itself has issued."
+          },
+          {
+            "type": "text",
+            "value": "Columbia reported that it received $341 million in indirect cost reimbursements in fiscal year 2025, dropping slightly from $348.9 million in fiscal year 2024."
+          },
+          {
+            "type": "text",
+            "value": "“The face of our financial results does not adequately capture the level of strain experienced by the research enterprise in the third and fourth quarters,” Sullivan wrote. “We know, however, that the landscape for federal funding for higher education will continue to evolve through programmatic shifts in federal priorities and changes in funding models.”"
+          },
+          {
+            "type": "text",
+            "value": "<b>Tuition and instruction</b>"
+          },
+          {
+            "type": "text",
+            "value": "Revenue from tuition and fees rose to $1.58 billion in fiscal year 2025, up from $1.51 billion the previous year. The increase reflects “modest growth in net tuition,” which included “an embedded increase of 4.6% in financial aid,” according to the University’s financial statements."
+          },
+          {
+            "type": "text",
+            "value": "In fiscal year 2025, Columbia awarded $622.6 million in financial aid grants. This was “an embedded increase of 4.6% in financial aid” from fiscal year 2024, when the University awarded $595 million in financial aid grants."
+          },
+          {
+            "type": "text",
+            "value": "Columbia College and the School of Engineering and Applied Science together <a href=\"https://www.columbiaspectator.com/news/2025/09/08/columbia-admits-largest-class-in-university-history-amid-admissions-reform/\">admitted</a> the largest ever incoming class this year. The University “extended” financial aid resources to “support this larger class, increasing to $66 million, a 22% increase over last year,” Shipman wrote in an Aug. 29 announcement."
+          },
+          {
+            "type": "text",
+            "value": "Instruction and educational administration, constituting a $2.46 billion expense and 37 percent of its operating budget in fiscal year 2025, is Columbia’s single largest operating expense. It increased by $47 million from fiscal year 2024, though this was offset by the $63 million increase in the University’s net tuition revenue."
+          },
+          {
+            "type": "text",
+            "value": "Columbia said it prioritized “service and programmatic enhancements for” both students and patients, and used funds “to provide support to our research enterprise when external funding was uncertain,” according to Sullivan."
+          },
+          {
+            "type": "text",
+            "value": "The gap between tuition income and instructional costs—roughly $885 million—illustrates the extent to which the University’s other revenue streams subsidize programs that deliver its core educational mission."
+          },
+          {
+            "type": "text",
+            "value": "<b>Patients and patient care</b>"
+          },
+          {
+            "type": "text",
+            "value": "Revenue from patient care climbed to $1.9 billion, up from $1.78 billion in fiscal year 2024, driven by “increased clinical activity and the delivery of programs and services with NewYork-Presbyterian Hospital.”"
+          },
+          {
+            "type": "text",
+            "value": "But patient care expenses in the same category rose as well, increasing to $1.68 billion from $1.56 billion, as the University expanded clinical operations and absorbed higher personnel and administrative costs. According to the financial statements, patient care expenses include both “direct expenses associated with providing patient care services” and “administrative functions within the University’s faculty practice organization.”"
+          },
+          {
+            "type": "text",
+            "value": "The narrowing gap between patient care revenue and expense shows the structural challenge behind Columbia’s smaller surplus. While the Columbia University Irving Medical Center remains a major source of revenue for the University, the rising costs of staffing, regulatory compliance, and external support have narrowed the funds Columbia can reinvest and channel back into University operations."
+          },
+          {
+            "type": "text",
+            "value": "Overall, expenses rose 5.3 percent in fiscal year 2025, outpacing the 2.1 percent increase in revenue and leaving Columbia with what the report described as “a modest operating surplus, albeit lower than our historical average.”"
+          },
+          {
+            "type": "text",
+            "value": "<b>Gifts down, endowment income up</b>"
+          },
+          {
+            "type": "text",
+            "value": "Columbia reported $589 million in private gifts and grants to its operating activities—9 percent of the University’s total operating revenue in fiscal year 2025—down from $653 million in fiscal year 2024."
+          },
+          {
+            "type": "text",
+            "value": "Gifts to the endowment fell to $177 million, down from $237 million in fiscal year 2024."
+          },
+          {
+            "type": "text",
+            "value": "Giving Day 2024, which was held Oct. 1, 2024, saw a <a href=\"https://www.columbiaspectator.com/news/2024/10/03/columbia-giving-day-donations-down-significantly-amid-donor-crisis/\">28.8 percent</a> decline in funds raised compared to Giving Day 2022 amid donor concerns regarding campus protests. Columbia <a href=\"https://www.columbiaspectator.com/news/2023/10/23/columbia-postpones-annual-giving-day-citing-not-the-appropriate-time/\">indefinitely postponed</a> Giving Day 2023, stating that it was “not the appropriate time.”"
+          },
+          {
+            "type": "text",
+            "value": "Giving Day 2025, which was held after fiscal year 2025 closed, saw a <a href=\"https://www.columbiaspectator.com/news/2025/10/23/2025-columbia-giving-day-donations-up-after-dip-in-2024/\">10.5 percent increase</a> in funds raised compared to Giving Day 2024."
+          },
+          {
+            "type": "text",
+            "value": "In the second half of fiscal year 2025, Columbia’s <a href=\"https://www.columbiaspectator.com/news/2025/04/01/columbias-response-to-the-trump-administrations-demands-explained/\">compliance</a> with most of the Trump administration’s demands in March and continued concerns over antisemitism on campus further <a href=\"https://www.columbiaspectator.com/news/2025/04/17/over-2600-alumni-call-on-columbia-to-defend-and-promote-academic-freedom-in-petition/\">alienated</a> <a href=\"https://www.nytimes.com/2025/03/14/nyregion/trump-columbia-university-antisemitism.html\">alumni</a>."
+          },
+          {
+            "type": "text",
+            "value": "Harvard University, which <a href=\"https://www.harvard.edu/president/news/2025/upholding-our-values-defending-our-university/\">refused to comply</a> with demands from the Trump administration, <a href=\"https://www.thecrimson.com/article/2025/10/17/harvard-financial-report-gifts-2025/\">reported</a> the largest annual total of donations to its operating budget in its history during fiscal year 2025."
+          },
+          {
+            "type": "text",
+            "value": "Columbia’s <a href=\"https://www.columbiaspectator.com/news/2025/10/23/columbias-endowment-rises-to-159-billion-as-operating-surplus-plummets-to-1126-million/\">endowment rose</a> to $15.9 billion, largely driven by global equity markets, allowing it to distribute $863 million in payout to operating activities, a $48 million increase from fiscal year 2024. The University confirmed that it had also tapped endowment funds to stabilize its research operations during spring 2025 and into fiscal year 2026."
+          },
+          {
+            "type": "text",
+            "value": "<i>Staff Writer Matt Luo can be contacted at </i><a href=\"mailto:matt.luo@columbiaspectator.com\"><i>matt.luo@columbiaspectator.com</i></a><i>. Follow Spectator on X </i><a href=\"https://twitter.com/columbiaspec?lang=en\"><i>@ColumbiaSpec</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Staff Writer Ushoshi Das can be contacted at </i><a href=\"mailto:ushoshi.das@columbiaspectator.com\"><i>ushoshi.das@columbiaspectator.com</i></a><i>. Follow Spectator on X </i><a href=\"https://twitter.com/columbiaspec?lang=en\"><i>@ColumbiaSpec</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Melinda Yao can be contacted at </i><a href=\"mailto:melinda.yao@columbiaspectator.com\"><i>melinda.yao@columbiaspectator.com</i></a><i>. Follow Spectator on X </i><a href=\"https://twitter.com/columbiaspec?lang=en\"><i>@ColumbiaSpec</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>. </i></b>"
+          }
+        ],
+        "headline": "Columbia’s operating surplus drops to $112.6 million as expenses outpace revenue growth",
+        "dek": "Revenue grew 2.1 percent while expenses climbed 5.3 percent, driving a $192 million drop in the University’s operating surplus, according to its recent financial report.",
+        "date": "November 6, 2025",
+        "byline": "By Matt Luo and <a href=\"https://www.columbiaspectator.com/contributors/ushoshi-das/\">Ushoshi Das</a>",
+        "byline2": "Graphic by Melinda Yao",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/HHVMRSHSVJDMFMHARGD2HJGRMY.jpg",
+        "cover_caption": "Sofia Wadler / Columbia Daily Spectator",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1v6vV55OxsePCEClUlEu-XKaCMMhMPNQcfYYtIAKUbzQ/edit?usp=sharing"
       }
     }
   }
